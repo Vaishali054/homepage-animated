@@ -18,7 +18,7 @@ export default function Hero() {
         <div className='hero-details'>
 
         <h1 className='hero-text bounce-left'>
-            Discover.Connect.<br className='responsive mobile-show'/>Colaborate
+            Discover.Connect.<br className='responsive mobile-show'/>Colaborate.
         </h1>
         <h3 className='hero-tagline bounce-left-tagline'>
             An ecosystem for Social media influencers and brands
